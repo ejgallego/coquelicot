@@ -1,0 +1,3 @@
+[submodule "coq-alternate-reals"]
+	path = coq-alternate-reals
+	url = https://github.com/strub/coq-alternate-reals.git
